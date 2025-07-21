@@ -13,7 +13,7 @@ A simple React application that allows users to dynamically change the backgroun
 
 ![Screenshot](./assets/screenshot.png)
 
-> Replace with a real screenshot or a screen recording gif if available
+
 
 ## 🛠️ Tech Stack
 
